@@ -1,5 +1,6 @@
 # ld-relay-client-dart
-![GitHub Actions](https://github.com/genkey6/ld-relay-client-dart/actions/workflows/ci.yaml/badge.svg)
+[![GitHub Actions](https://github.com/genkey6/ld-relay-client-dart/actions/workflows/ci.yaml/badge.svg)](https://github.com/genkey6/ld-relay-client-dart/actions/workflows/ci.yaml)
+[![Pub](https://img.shields.io/pub/v/ld_relay_client.svg)](https://pub.dev/packages/ld_relay_client)
 
 A client implementation for [Relay Proxy](https://docs.launchdarkly.com/home/relay-proxy) of [LaunchDarkly](https://launchdarkly.com/) in Dart.
 
