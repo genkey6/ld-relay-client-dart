@@ -1,7 +1,7 @@
 name: ld_relay_client
 description: A client implementation for LaunchDarkly Relay Proxy in Dart
 
-version: 1.0.0
+version: 1.0.0+1
 repository: https://github.com/genkey6/ld-relay-client-dart
 
 environment:
