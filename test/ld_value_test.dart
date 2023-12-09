@@ -1,7 +1,7 @@
-/// NOTE: copied from https://github.com/launchdarkly/flutter-client-sdk/blob/main/test/ld_value_test.dart
-
 import 'package:ld_relay_client/ld_relay_client.dart';
 import 'package:test/test.dart';
+
+/// NOTE: copied from https://github.com/launchdarkly/flutter-client-sdk/blob/main/test/ld_value_test.dart
 
 void main() {
   group('Simple Types', testSimpleTypes);
